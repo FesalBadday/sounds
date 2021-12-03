@@ -1,0 +1,54 @@
+body {
+  background-color: #291b31;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  padding-top: 1rem;
+  animation: fadeIn .6s ease-in;
+}
+
+button {
+  font-family: 'Aclonica', sans-serif;
+  color: #450c58;
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 3.5rem;
+  border-radius: 1rem;
+  border: none;
+  cursor: pointer;
+  box-shadow: #000 0px 0px 48px 0px inset, #000 0px 0px 0px 1px inset;
+}
+
+button:hover {
+  background-color: #cead4c;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.sky-blue {
+  background-color: #0ab7dd;
+}
+
+.red {
+  background-color: #a30d0d;
+}
+
+@media (max-width: 600px) {
+  button {
+    font-size: 1.1rem;
+    font-weight: normal;
+    padding: 1rem;
+  }
+}
