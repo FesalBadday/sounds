@@ -1,63 +1,18 @@
 // export sounds module
 export const sounds = [
   {
-    name: 'Awkward Silence',
-    value: 'awkward-silence',
-    color: 'sky-blue'
-  },
-  {
-    name: 'Classroom Applause',
-    value: 'classroom-applause',
-    color: 'sky-blue'
-  },
-  {
-    name: 'Medieval Fanfare',
-    value: 'medieval-fanfare',
-    color: 'sky-blue'
-  },
-  {
-    name: 'Question Theme',
-    value: 'question-theme',
-    color: 'sky-blue'
-  },
-  {
-    name: 'Sad Trombone',
-    value: 'sad-trombone',
-    color: 'sky-blue'
-  },
-  {
     name: 'Small Applause',
-    value: 'small-applause',
+    value: 'applause',
     color: 'sky-blue'
   },
   {
-    name: 'Wrong Buzzer',
-    value: 'wrongb-buzzer',
+    name: 'Big Applause',
+    value: 'big-applause',
     color: 'sky-blue'
   },
   {
-    name: 'Disappointed',
-    value: 'disappointed',
-    color: 'sky-blue'
-  },
-  {
-    name: 'Time Is Up',
-    value: 'time-is-up',
-    color: 'sky-blue'
-  },
-  {
-    name: 'Click Nice',
-    value: 'click-nice',
-    color: 'sky-blue'
-  },
-  {
-    name: 'Drum Roll',
-    value: 'drum-roll',
-    color: 'sky-blue'
-  },
-  {
-    name: 'Holy Moly',
-    value: 'holy-moly',
+    name: 'Crowd Boo',
+    value: 'crowd-boo',
     color: 'sky-blue'
   },
   {
@@ -66,28 +21,43 @@ export const sounds = [
     color: 'sky-blue'
   },
   {
-    name: 'Bingo',
-    value: 'bingo',
-    color: 'sky-blue'
+    name: 'Tada Sound',
+    value: 'Tada-sound',
+    color: 'orange'
   },
   {
-    name: 'Ahhh',
-    value: 'ahhh',
-    color: 'sky-blue'
+    name: 'Sad Trumpet',
+    value: 'sad-trumpet',
+    color: 'orange'
   },
   {
-    name: 'Boo',
-    value: 'boo',
-    color: 'sky-blue'
+    name: 'Ending Sound',
+    value: 'ending-sound',
+    color: 'orange'
   },
   {
-    name: 'Shh',
-    value: 'shh',
-    color: 'sky-blue'
+    name: 'Funny Boing',
+    value: 'funny-boing',
+    color: 'orange'
   },
   {
-    name: 'Woah',
-    value: 'woah',
-    color: 'sky-blue'
+    name: 'Awkward Silence',
+    value: 'awkward-silence',
+    color: 'red'
+  },
+  {
+    name: 'Evil Laugh',
+    value: 'evil-laugh',
+    color: 'red'
+  },
+  {
+    name: 'Ha Sound',
+    value: 'ha-sound',
+    color: 'red'
+  },
+  {
+    name: 'Wonderful Robot Voice',
+    value: 'wonderful-robot',
+    color: 'red'
   }
 ];
