@@ -13,7 +13,7 @@ section {
 
 button {
   font-family: 'Aclonica', sans-serif;
-  color: #450c58;
+  color: #f8f8ff;
   font-size: 3rem;
   font-weight: bold;
   padding: 3.5rem;
@@ -24,7 +24,8 @@ button {
 }
 
 button:hover {
-  background-color: #cead4c;
+  background-color: #f8f8ff;
+  color: #000;
 }
 
 @keyframes fadeIn {
@@ -42,7 +43,11 @@ button:hover {
 }
 
 .red {
-  background-color: #a30d0d;
+  background-color: #8f1717;
+}
+
+.orange{
+  background-color: #ffa500;
 }
 
 @media (max-width: 600px) {
