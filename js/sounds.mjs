@@ -22,7 +22,7 @@ export const sounds = [
   },
   {
     name: 'Tada Sound',
-    value: 'Tada-sound',
+    value: 'tada-sound',
     color: 'orange'
   },
   {
