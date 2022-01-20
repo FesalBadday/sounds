@@ -4,8 +4,8 @@
 
 **Information :**
 
-- Repo: [Github Repo](https://github.com/FesalBadday/roster-cards)
-- Site: [Github Pages](https://FesalBadday.github.io/roster-cards)
+- Repo: [Github Repo](https://github.com/FesalBadday/sounds)
+- Site: [Github Pages](https://FesalBadday.github.io/sounds)
 
  1. Download an mp3 sound and add it to the sounds folder
  2. Add the name, value and color for the sound in js/sounds.mjs
